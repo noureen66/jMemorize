@@ -46,7 +46,10 @@ public class CategoryComboBox extends JComboBox implements CategoryObserver
         /* (non-Javadoc)
          * @see javax.swing.plaf.basic.BasicComboBoxRenderer
          */
-        public Component getListCellRendererComponent(JList list, Object value, 
+
+        /*BUG #3
+         * NOT FIXED*/
+        public Component getListCellRendererComponent(JList list, Object value,
             int index, boolean isSelected, boolean cellHasFocus)
         {
             Category cat = (Category)value;

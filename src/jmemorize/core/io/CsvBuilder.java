@@ -44,6 +44,9 @@ import com.csvreader.CsvReader.FinalizedException;
  */
 public class CsvBuilder
 {
+    /*BUG #4
+     * FIXED*/
+
     public static final String FRONTSIDE_COL = "Frontside";
     public static final String FLISIDE_COL   = "Flipside";
     public static final String CATEGORY_COL  = "Category";
