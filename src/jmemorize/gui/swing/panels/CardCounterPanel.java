@@ -162,7 +162,7 @@ public class CardCounterPanel extends JPanel {
             m_textField.setText(getCardString());
             /*
              * BUG #2
-             * FIXED
+             * .FIXED
              */
             m_textField.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
             m_textField.setEditable(false);
