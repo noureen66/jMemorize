@@ -18,6 +18,7 @@ public abstract class AbstractSessionDisabledAction extends AbstractAction2
 
     /*BUG #1
      * FIXED*/
+    
     protected AbstractSessionDisabledAction()
     {
         Main.getInstance().addLearnSessionObserver(this);
