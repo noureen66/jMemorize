@@ -1,0 +1,27 @@
+
+t
+java:S22930"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ûƒµàûÿÿÿÿ
+t
+java:S22931"YReplace the type specification in this constructor call with the diamond operator ("<>").(§ú³¹øÿÿÿÿ
+u
+java:S2293ô"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÄãÀœùÿÿÿÿ
+p
+java:S2293‰"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥÷äÅ
+u
+java:S2293µ"YReplace the type specification in this constructor call with the diamond operator ("<>").(²ô“Åûÿÿÿÿ
+2
+java:S1643s"Use a StringBuilder instead.(âÍúØ
+o	java:S1160"URename this field "m_imageMap" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûƒµàûÿÿÿÿ
+q	java:S1161"WRename this field "m_imageCache" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ú³¹øÿÿÿÿ
+k
+java:S3008."URename this field "m_instance" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à¤ŽØ
+´
+java:S6548("˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(þï»¥øÿÿÿÿ
+l	java:S1167"WRename this field "m_sourceFile" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø´º÷
+g	java:S1168"RRename this field "m_bytes" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ÇÜŠ
+i	java:S1169"ORename this field "m_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“œ­ªùÿÿÿÿ
+I
+java:S1135‰"2Complete the task associated to this TODO comment.(€éîÈ
+N
+java:S1135˜"2Complete the task associated to this TODO comment.(Ë­€­ÿÿÿÿÿ
+R	java:S125»"<This block of commented-out lines of code should be removed.(ÆÈ„

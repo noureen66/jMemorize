@@ -1,0 +1,25 @@
+
+D
+java:S1604­"(Make this anonymous inner class a lambda(ñÏ‚úÿÿÿÿ
+D
+java:S1604µ"(Make this anonymous inner class a lambda(†Çğõûÿÿÿÿ
+D
+java:S1604½"(Make this anonymous inner class a lambda(ú‚Íøùÿÿÿÿ
+?
+java:S1604ã"(Make this anonymous inner class a lambda(‹¦ø
+q	java:S116<"WRename this field "m_okayButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›‚Ûˆıÿÿÿÿ
+q	java:S116="WRename this field "m_moreButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±•à³üÿÿÿÿ
+q	java:S116>"WRename this field "m_copyButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û¯“úÿÿÿÿ
+k	java:S116@"VRename this field "m_exception" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€õ–—
+p	java:S116A"[Rename this field "m_stacktraceArea" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ ºè
+l	java:S116B"WRename this field "m_scrollPane" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ã–û
+j	java:S116C"URename this field "m_extended" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û¥–¿
+i	java:S116E"TRename this field "m_message" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÆÀÉ
+p	java:S116F"VRename this field "m_debugText" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º±ºùÿÿÿÿ
+r	java:S116G"]Rename this field "m_placeholderPanel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìàë½
+v
+java:S1450>"[Remove the "m_copyButton" field and declare it as a local variable in the relevant methods.(û¯“úÿÿÿÿ
+v
+java:S1450<"[Remove the "m_okayButton" field and declare it as a local variable in the relevant methods.(›‚Ûˆıÿÿÿÿ
+u
+java:S1450A"_Remove the "m_stacktraceArea" field and declare it as a local variable in the relevant methods.(¬ ºè

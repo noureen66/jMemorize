@@ -151,7 +151,7 @@ public class ExtentProgressBar extends JProgressBar
             public void keyPressed(KeyEvent arg0)
             {
                 /*BUG #2
-                 * NOT FIXED*/
+                 * NOT FIXED SALMA*/
                 switch (arg0.getKeyCode())
                 {
                 case KeyEvent.VK_LEFT:

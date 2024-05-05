@@ -1,0 +1,32 @@
+
+p
+java:S2293ì"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ãæá
+p
+java:S2293Ï"YReplace the type specification in this constructor call with the diamond operator ("<>").(°ô£
+p
+java:S2293á"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÆğÜÒ
+p
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Àæ²›
+o	java:S135Ğ"YReduce the total number of break and continue statements in this loop to use at most one.(Ä©İ´
+o	java:S135Á"YReduce the total number of break and continue statements in this loop to use at most one.(¾ª†È
+P
+java:S1118I":Add a private constructor to hide the implicit public one.(›‚üÔ
+`
+java:S1124l"EReorder the modifiers to comply with the Java Language Specification.(ÅÚö÷ÿÿÿÿÿ
+F
+java:S2093ñ"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+L
+java:S1133"5Do not forget to remove this deprecated code someday.(œûºÉ
+>
+java:S1123"'Add the missing @Deprecated annotation.(œûºÉ
+Q
+java:S1133²"5Do not forget to remove this deprecated code someday.(•ÓÀÿÿÿÿÿ
+C
+java:S1123²"'Add the missing @Deprecated annotation.(•ÓÀÿÿÿÿÿ
+I
+java:S1135ß"2Complete the task associated to this TODO comment.(¿Ê½
+Q	java:S899ö";Do something with the "boolean" value returned by "delete".(¿ ÛÜ
+e
+java:S4042ö"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(¿ ÛÜ
+D
+java:S1172Ù"-Remove this unused method parameter "father".(—ß¦Ä

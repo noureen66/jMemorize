@@ -1,0 +1,9 @@
+
+t
+java:S2293."YReplace the type specification in this constructor call with the diamond operator ("<>").(’£ú¶ýÿÿÿÿ
+t
+java:S2293/"YReplace the type specification in this constructor call with the diamond operator ("<>").(®´êÞøÿÿÿÿ
+t
+java:S2293d"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ò‘¬Üúÿÿÿÿ
+t	java:S116."ZRename this field "m_newCardFrames" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’£ú¶ýÿÿÿÿ
+s	java:S116/"YRename this field "m_createdCards" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®´êÞøÿÿÿÿ

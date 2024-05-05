@@ -1,0 +1,29 @@
+
+K
+java:S3740ˆ"/Provide the parametrized type for this generic.(Ö¼Ôâøÿÿÿÿ
+K
+java:S3740ˆ"/Provide the parametrized type for this generic.(Ö¼Ôâøÿÿÿÿ
+F
+java:S3740í"/Provide the parametrized type for this generic.(ô ÎĞ
+F
+java:S3740í"/Provide the parametrized type for this generic.(ô ÎĞ
+K
+java:S3740ù"/Provide the parametrized type for this generic.(Ğ†çşùÿÿÿÿ
+u
+java:S2293—"YReplace the type specification in this constructor call with the diamond operator ("<>").(éİ”Õÿÿÿÿÿ
+D
+java:S1604±"(Make this anonymous inner class a lambda(±Ãšıÿÿÿÿ
+u
+java:S3008D"ZRename this field "m_defaultBundle" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓöŸûÿÿÿÿ
+q
+java:S3008E"[Rename this field "m_fallbackBundle" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯…äß
+F
+java:S2093š"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+A	java:S106ñ"+Replace this use of System.out by a logger.(™†«ñ
+A	java:S106ô"+Replace this use of System.out by a logger.(ùàèü
+F	java:S106ø"+Replace this use of System.out by a logger.(ÎŠ˜ıÿÿÿÿ
+F	java:S106ü"+Replace this use of System.out by a logger.(Ã×Ñ¬úÿÿÿÿ
+F	java:S106ş"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ
+F	java:S106‚"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ
+;
+java:S1168š"$Return an empty map instead of null.(¥¹ï

@@ -31,6 +31,7 @@ import java.util.Set;
 import javax.swing.JPanel;
 import javax.swing.JProgressBar;
 import javax.swing.JTextField;
+import javax.swing.SwingConstants;
 
 import jmemorize.core.Card;
 import jmemorize.core.Main;
@@ -181,8 +182,8 @@ public class CardCounterPanel extends JPanel
         {
             m_textField.setText(getCardString());
             /*BUG #2
-             * NOT FIXED*/
-            m_textField.setHorizontalAlignment(JTextField.CENTER);
+             *FIXED BASMALA*/
+            m_textField.setHorizontalAlignment(SwingConstants.CENTER);
             m_textField.setEditable(false);
             add(m_textField, BorderLayout.CENTER);
         }

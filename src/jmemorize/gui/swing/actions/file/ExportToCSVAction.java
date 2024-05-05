@@ -49,7 +49,7 @@ public class ExportToCSVAction extends AbstractExportAction
     {
         FileOutputStream out = new FileOutputStream(file);
         /*BUG #5
-         * NOT FIXED*/
+         * NOT FIXED NADA*/
         CsvBuilder.exportLesson(out, lesson, ',', Charset.forName("UTF-8"));
     }
 

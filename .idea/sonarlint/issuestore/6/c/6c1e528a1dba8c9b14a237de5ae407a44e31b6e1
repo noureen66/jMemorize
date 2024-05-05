@@ -1,0 +1,6 @@
+
+j	java:S116"URename this field "m_settings" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(σ»γε
+s	java:S116"YRename this field "m_testCalendar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΜΙÿÿÿÿÿ
+o	java:S116"URename this field "m_testDate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ι΄—‘ÿÿÿÿÿ
+x
+java:S1450"]Remove the "m_testCalendar" field and declare it as a local variable in the relevant methods.(ΜΙÿÿÿÿÿ

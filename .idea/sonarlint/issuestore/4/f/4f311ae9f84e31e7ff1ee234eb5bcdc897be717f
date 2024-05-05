@@ -1,0 +1,23 @@
+
+j	java:S116#"URename this field "m_category" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯™ø
+i	java:S116$"TRename this field "m_session" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñÓº¯
+j	java:S116%"URename this field "m_settings" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó»ãå
+j	java:S116&"URename this field "m_provider" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ØÛÔ
+u	java:S116("[Rename this field "m_unlearnedCount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢´°Şøÿÿÿÿ
+s	java:S116)"YRename this field "m_learnedCount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ÃĞšÿÿÿÿÿ
+n	java:S116*"YRename this field "m_expiredCount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùî¶Á
+o	java:S116+"ZRename this field "m_selectedCount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™úÚ
+t
+java:S1450+"^Remove the "m_selectedCount" field and declare it as a local variable in the relevant methods.(™úÚ
+v
+java:S1149ù"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+`
+java:S1124-"EReorder the modifiers to comply with the Java Language Specification.(ó‹‚ûÿÿÿÿ
+[
+java:S1124."EReorder the modifiers to comply with the Java Language Specification.(¦¶¢™
+[
+java:S1124/"EReorder the modifiers to comply with the Java Language Specification.(‰üÉ
+U
+java:S11611":Add the "@Override" annotation above this method signature(¬ô´¯ıÿÿÿÿ
+I
+java:S1068+"3Remove this unused "m_selectedCount" private field.(™úÚ

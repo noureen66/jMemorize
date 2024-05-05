@@ -1,0 +1,16 @@
+
+
+java:S2259V"FA "NullPointerException" could be thrown; "childAst" is nullable here.(—’Ã:J$4fdfb074-c964-4902-b631-14edac562e8e
+{
+java:S11617":Add the "@Override" annotation above this method signature(‘Ó›ËùÿÿÿÿJ$564c32c9-3082-4276-b4cc-70cd9f55dc95
+{
+java:S1161=":Add the "@Override" annotation above this method signature(‰ÌÆúÿÿÿÿJ$39446e8c-87e3-49f8-8843-30e3ae8b301e
+“
+java:S3776B"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(©Ë¿ùÿÿÿÿJ$ef65daef-6317-461b-a693-a357372f1b08
+{
+java:S1161B":Add the "@Override" annotation above this method signature(©Ë¿ùÿÿÿÿJ$d3ccdae2-ae90-4938-b502-e1b9fa692c2c
+w	java:S125`"<This block of commented-out lines of code should be removed.(¾¨­ØJ$db0d6597-5ce4-4d13-a9b1-613527f02d6d
+v
+java:S1161":Add the "@Override" annotation above this method signature(äˆĞ‡J$bb831202-4e5c-41a3-9cc2-53d55aa67b02
+}	java:S125ƒ"<This block of commented-out lines of code should be removed.(öÒ¦éüÿÿÿÿJ$82fd0d18-1b87-4669-bcc4-cd328afb3a63
+}	java:S125Š"<This block of commented-out lines of code should be removed.(©§¦ÿÿÿÿÿJ$e2b4a26b-1534-49b2-89fa-2dddcc5a60a6

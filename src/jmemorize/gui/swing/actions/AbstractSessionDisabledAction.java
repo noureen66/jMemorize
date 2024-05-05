@@ -17,13 +17,13 @@ public abstract class AbstractSessionDisabledAction extends AbstractAction2
 {
 
     /*BUG #1
-     * FIXED*/
-    
+     * FIXED NOUREEN*/
     protected AbstractSessionDisabledAction()
     {
         Main.getInstance().addLearnSessionObserver(this);
         updateEnablement();
     }
+    
     
     /* (non-Javadoc)
      * @see jmemorize.core.LearnSessionObserver#sessionStarted(jmemorize.core.LearnSession)

@@ -1,0 +1,11 @@
+
+j	java:S116#"URename this field "m_category" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯™Žø
+i	java:S116$"TRename this field "m_session" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñÓº¯
+j	java:S116%"URename this field "m_settings" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó»ãå
+j	java:S116&"URename this field "m_provider" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ØÛÔ
+l	java:S116("RRename this field "m_card0" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÅÖÿûÿÿÿÿ
+l	java:S116)"RRename this field "m_card1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢‘¬Úùÿÿÿÿ
+g	java:S116*"RRename this field "m_card2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùËíÒ
+U
+java:S1161,":Add the "@Override" annotation above this method signature(¬ô´¯ýÿÿÿÿ
+Q	java:S125]"<This block of commented-out lines of code should be removed.(Ú°à¬

@@ -1,0 +1,51 @@
+
+t
+java:S2293U"YReplace the type specification in this constructor call with the diamond operator ("<>").(Åš³ˆøÿÿÿÿ
+o
+java:S2293V"YReplace the type specification in this constructor call with the diamond operator ("<>").(ˆåÒ¸
+n
+java:S2293W"YReplace the type specification in this constructor call with the diamond operator ("<>").(ö®²[
+@
+java:S2629§"$Invoke method(s) only conditionally.(ËÆè°şÿÿÿÿ
+i
+java:S2095³"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(¢âØøÿÿÿÿ
+e
+java:S2095´"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(Ö·¥ö
+r	java:S116J"XRename this field "m_recentFiles" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì·í·üÿÿÿÿ
+f	java:S116N"RRename this field "m_frame" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†è…
+
+h	java:S116O"SRename this field "m_lesson" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ€á„
+o	java:S116P"ZRename this field "m_learnSettings" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Ï³ï
+y	java:S116Q"_Rename this field "m_globalLearnHistory" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒäàøÿÿÿÿ
+q	java:S116R"\Rename this field "m_runningSessions" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ÔâË
+v	java:S116U"\Rename this field "m_lessonObservers" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åš³ˆøÿÿÿÿ
+w	java:S116V"bRename this field "m_learnSessionObservers" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆåÒ¸
+t	java:S116W"`Rename this field "m_programEndObservers" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö®²[
+p
+java:S3008L"URename this field "m_instance" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÛ«†şÿÿÿÿ
+{
+java:S3008["`Rename this field "m_lastLoggedThrowable" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ù›Üøÿÿÿÿ
+8
+java:S2386C"Make this member "protected".(…‡ì£úÿÿÿÿ
+M
+java:S1874:"2Remove this use of "Observable"; it is deprecated.(À¿©ªüÿÿÿÿ
+V
+java:S1075F"ARefactor your code to get this URI from a customizable parameter.(ß¶Ä
+N
+java:S1135†"2Complete the task associated to this TODO comment.(÷î€¡ùÿÿÿÿ
+N
+java:S1135"2Complete the task associated to this TODO comment.(±ˆ§±şÿÿÿÿ
+V	java:S899®";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿ
+j
+java:S4042®"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿ
+I
+java:S1135æ"2Complete the task associated to this TODO comment.(·ùˆß
+W	java:S125î"<This block of commented-out lines of code should be removed.(ÿ¼£éÿÿÿÿÿ
+X
+java:S2130‰"AUse "Boolean.parseBoolean" for this string-to-boolean conversion.(ÂîÛÌ
+N
+java:S1135œ"2Complete the task associated to this TODO comment.(´ü®äüÿÿÿÿ
+F
+java:S2093²"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+F
+java:S1197ì"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ

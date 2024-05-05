@@ -48,7 +48,7 @@ public class CategoryComboBox extends JComboBox implements CategoryObserver
          */
 
         /*BUG #3
-         * NOT FIXED*/
+         * NOT FIXED EMAN*/
         public Component getListCellRendererComponent(JList list, Object value,
             int index, boolean isSelected, boolean cellHasFocus)
         {

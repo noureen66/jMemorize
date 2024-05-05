@@ -1,0 +1,11 @@
+
+j	java:S116 "URename this field "m_category" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯™ø
+n	java:S116!"TRename this field "m_session" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ê¿şÿÿÿÿ
+j	java:S116""URename this field "m_settings" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó»ãå
+j	java:S116#"URename this field "m_provider" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ØÛÔ
+œ
+java:S1186,"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¾‘’üüÿÿÿÿ
+U
+java:S1161%":Add the "@Override" annotation above this method signature(¬ô´¯ıÿÿÿÿ
+U
+java:S1161,":Add the "@Override" annotation above this method signature(¾‘’üüÿÿÿÿ

@@ -1,0 +1,16 @@
+
+p	java:S116i"[Rename this field "m_nextDeckAction" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(– œ±
+t	java:S116j"_Rename this field "m_previousDeckAction" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Âª‹Ý
+w	java:S116l"]Rename this field "m_currentDeckLevel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿü¯Žûÿÿÿÿ
+j	java:S116m"URename this field "m_category" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯™Žø
+f	java:S116o"RRename this field "m_frame" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†è…
+
+p	java:S116r"VRename this field "m_cardTable" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£¼Í¿øÿÿÿÿ
+H
+java:S1948i"2Make "m_nextDeckAction" transient or serializable.(– œ±
+L
+java:S1948j"6Make "m_previousDeckAction" transient or serializable.(Âª‹Ý
+N
+java:S1135º"2Complete the task associated to this TODO comment.(õœû´ÿÿÿÿÿ
+Q
+java:S1161Ø":Add the "@Override" annotation above this method signature(·øÏƒ

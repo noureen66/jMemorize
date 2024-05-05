@@ -1,0 +1,48 @@
+
+t
+java:S2293T"YReplace the type specification in this constructor call with the diamond operator ("<>").(–©×Ñùÿÿÿÿ
+t	java:S116Q"ZRename this field "m_formattedText" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÃ¦Âüÿÿÿÿ
+v	java:S116R"\Rename this field "m_unformattedText" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êÅ¯üÿÿÿÿ
+¯
+java:S65484"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(ìÊ‡µ
+v
+java:S1149õ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+v
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+v
+java:S1149æ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ŒÏüµ
+M
+java:S1135>"2Complete the task associated to this TODO comment.(ÂÑà“ýÿÿÿÿ
+M
+java:S1135?"2Complete the task associated to this TODO comment.(·å«òûÿÿÿÿ
+H
+java:S1135@"2Complete the task associated to this TODO comment.(ºŽÓé
+H
+java:S1135A"2Complete the task associated to this TODO comment.(æþš¾
+V	java:S125M"<This block of commented-out lines of code should be removed.(ØÙ®÷øÿÿÿÿ
+I
+java:S1135"2Complete the task associated to this TODO comment.(ýõ–ñ
+o
+java:S2975Ç"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¯ÔÚ“ùÿÿÿÿ
+0
+java:S2225Ò"Return a non null object.(¥¹ï
+c
+java:S6201Ú"LReplace this instanceof check and cast with 'instanceof FormattedText other'(›óÐò
+R	java:S125š"<This block of commented-out lines of code should be removed.(¼µ­²
+K
+java:S2864Â"4Iterate over the "entrySet" instead of the "keySet".(ü—º¥
+_
+java:S5361Ò"HReplace this call to "replaceAll()" by a call to the "replace()" method.(¨¤‰§
+_
+java:S5361Ò"HReplace this call to "replaceAll()" by a call to the "replace()" method.(¨¤‰§
+d
+java:S5361×"HReplace this call to "replaceAll()" by a call to the "replace()" method.(œÂ†•ùÿÿÿÿ
+d
+java:S5361×"HReplace this call to "replaceAll()" by a call to the "replace()" method.(œÂ†•ùÿÿÿÿ
+¡
+java:S1130ä"„Remove the declaration of thrown exception 'jmemorize.core.FormattedText$ParseException', as it cannot be thrown from method's body.(Œå¨²ùÿÿÿÿ
+R	java:S125è"<This block of commented-out lines of code should be removed.(ñÞõô
+R	java:S125Ž"<This block of commented-out lines of code should be removed.(£Ã‡Ç
+R	java:S125™"<This block of commented-out lines of code should be removed.(Ú°à¬
+N
+java:S1135–"2Complete the task associated to this TODO comment.(¨ƒîéþÿÿÿÿ

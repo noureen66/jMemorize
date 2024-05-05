@@ -1,0 +1,35 @@
+
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(à ÒÄ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÍÓ½Êüÿÿÿÿ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ó”àíøÿÿÿÿ
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(÷¡‰´
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¦é·ş
+u
+java:S2293‡"YReplace the type specification in this constructor call with the diamond operator ("<>").(œÄ‚µúÿÿÿÿ
+e
+java:S1192""JDefine a constant instead of duplicating this literal "test card" 4 times.(ÁÏ€Œûÿÿÿÿ
+l	java:S116"RRename this field "m_start" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ€¹ıÿÿÿÿ
+j	java:S116"PRename this field "m_end" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä‡¤²ùÿÿÿÿ
+h	java:S116"SRename this field "m_passed" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à ÒÄ
+m	java:S116"SRename this field "m_failed" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍÓ½Êüÿÿÿÿ
+n	java:S116"TRename this field "m_skipped" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó”àíøÿÿÿÿ
+k	java:S116"VRename this field "m_relearned" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷¡‰´
+–
+java:S1186]"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(­ŞÌV
+œ
+java:S1186a"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(š­Ù¿ÿÿÿÿÿ
+—
+java:S1186y"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(œÆÚ´
+—
+java:S1186}"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(àöûº
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¨çĞ‹øÿÿÿÿ
+˜
+java:S1186Š"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¾ÅÁĞ
+˜
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ç¿“š
