@@ -153,7 +153,7 @@ public class ExtentProgressBar extends JProgressBar {
 
         frame.getContentPane().add(bar);
         frame.addKeyListener(new KeyAdapter()
-        /* BUG#6 FIXED SALMA */
+        /* BUG#6 FIXED SALMAA */
         {
             public void keyPressed(KeyEvent arg0) {
                 switch (arg0.getKeyCode()) {
