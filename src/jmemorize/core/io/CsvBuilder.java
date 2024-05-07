@@ -16,6 +16,7 @@
  * along with this program; if not, write to the Free Software
  * Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
  */
+//hana tawfik
 package jmemorize.core.io;
 
 import java.io.IOException;
@@ -43,9 +44,14 @@ import com.csvreader.CsvReader.FinalizedException;
  */
 public class CsvBuilder
 {
-    /*BUG #4
-     * FIXED HANA*/
-    
+
+    /*BUG 4
+     * Fixed
+     */
+    public CsvBuilder() {
+        throw new IllegalStateException("CSV class");
+    }
+
 
     public static final String FRONTSIDE_COL = "Frontside";
     public static final String FLISIDE_COL   = "Flipside";

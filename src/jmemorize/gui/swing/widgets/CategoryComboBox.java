@@ -39,98 +39,103 @@ import jmemorize.core.CategoryObserver;
  * 
  * @author djemili
  */
-public class CategoryComboBox extends JComboBox implements CategoryObserver
-{
-    private class CatergoryRenderer extends BasicComboBoxRenderer
-    {
-        /* (non-Javadoc)
+public class CategoryComboBox extends JComboBox implements CategoryObserver {
+    private class CatergoryRenderer extends BasicComboBoxRenderer {
+        /*
+         * (non-Javadoc)
+         * 
          * @see javax.swing.plaf.basic.BasicComboBoxRenderer
          */
 
-        /*BUG #3
-         * NOT FIXED EMAN*/
+
+        
         public Component getListCellRendererComponent(JList list, Object value,
             int index, boolean isSelected, boolean cellHasFocus)
         {
             Category cat = (Category)value;
             JLabel label = (JLabel)super.getListCellRendererComponent(list, 
                 cat.getName(), index, isSelected, cellHasFocus);
+
+        /*
+         * Bug #3
+         * FIXED by Eman*
+         */
+        @Override
+        public Component getListCellRendererComponent(JList list, Object value,
+                int index, boolean isSelected, boolean cellHasFocus) {
+            Category cat = (Category) value;
+            JLabel label = (JLabel) super.getListCellRendererComponent(list,
+                    cat.getName(), index, isSelected, cellHasFocus);
+
             label.setIcon(FOLDER_ICON);
-            
+
             // show items in combo list indented.
             int leftSpace = index >= 0 ? 20 * cat.getDepth() : 0;
             label.setBorder(new EmptyBorder(2, leftSpace, 2, 2));
-            
+
             if (index < 0)
                 label.setText(cat.getPath());
 
             return label;
         }
     }
-    
-    private final ImageIcon     FOLDER_ICON = new ImageIcon(getClass().
-        getResource("/resource/icons/folder.gif")); //$NON-NLS-1$
-    
-    private Category            m_rootCategory;
-    
-    public CategoryComboBox()
-    {
+
+    private final ImageIcon FOLDER_ICON = new ImageIcon(getClass().getResource("/resource/icons/folder.gif")); //$NON-NLS-1$
+
+    private Category m_rootCategory;
+
+    public CategoryComboBox() {
         setRenderer(new CatergoryRenderer());
         setMaximumRowCount(12);
     }
-    
-    public void setRootCategory(Category category)
-    {
-        if (m_rootCategory != null)
-        {
+
+    public void setRootCategory(Category category) {
+        if (m_rootCategory != null) {
             m_rootCategory.removeObserver(this);
         }
         m_rootCategory = category;
         m_rootCategory.addObserver(this);
-        
-        updateModel();
-    }
-    
-    public Category getRootCategory()
-    {
-        return m_rootCategory;
-    }
-    
-    public void setSelectedCategory(Category category)
-    {
-        setSelectedItem(category);
-    }
-    
-    public Category getSelectedCategory()
-    {
-        return (Category)getModel().getSelectedItem();
-    }
-    
-    /* (non-Javadoc)
-     * @see jmemorize.core.CategoryObserver
-     */
-    public void onCategoryEvent(int type, Category category)
-    {
+
         updateModel();
     }
 
-    /* (non-Javadoc)
+    public Category getRootCategory() {
+        return m_rootCategory;
+    }
+
+    public void setSelectedCategory(Category category) {
+        setSelectedItem(category);
+    }
+
+    public Category getSelectedCategory() {
+        return (Category) getModel().getSelectedItem();
+    }
+
+    /*
+     * (non-Javadoc)
+     * 
      * @see jmemorize.core.CategoryObserver
      */
-    public void onCardEvent(int type, Card card, Category category, int deck)
-    {
+    public void onCategoryEvent(int type, Category category) {
+        updateModel();
+    }
+
+    /*
+     * (non-Javadoc)
+     * 
+     * @see jmemorize.core.CategoryObserver
+     */
+    public void onCardEvent(int type, Card card, Category category, int deck) {
         // ignore
     }
-    
-    private void updateModel()
-    {
+
+    private void updateModel() {
         Object selected = getModel().getSelectedItem();
         List<Category> categoryList = m_rootCategory.getSubtreeList();
         DefaultComboBoxModel model = new DefaultComboBoxModel(categoryList.toArray());
-        
+
         // if former selected object still there, select it again
-        if (categoryList.contains(selected))
-        {
+        if (categoryList.contains(selected)) {
             model.setSelectedItem(selected);
         }
 
