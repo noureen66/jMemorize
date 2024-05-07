@@ -155,6 +155,32 @@ public class ExtentProgressBar extends JProgressBar {
         frame.addKeyListener(new KeyAdapter()
         /* BUG#6 FIXED SALMAA */
         {
+
+            public void keyPressed(KeyEvent arg0)
+            {
+                /*BUG #2
+                 * NOT FIXED SALMA*/
+                switch (arg0.getKeyCode())
+                {
+                case KeyEvent.VK_LEFT:
+                    bar.setValue(bar.getValue() - 1);
+                    break;
+                case KeyEvent.VK_RIGHT:
+                    bar.setValue(bar.getValue() + 1);
+                    break;
+                case KeyEvent.VK_UP:
+                    bar.setExtent(bar.getExtent() + 1);
+                    break;
+                case KeyEvent.VK_DOWN:
+                    bar.setExtent(bar.getExtent() - 1);
+                    break;
+                case KeyEvent.VK_1:
+                    bar.setOrientation(JProgressBar.HORIZONTAL);
+                    break;
+                case KeyEvent.VK_2:
+                    bar.setOrientation(JProgressBar.VERTICAL);
+                    break;
+
             public void keyPressed(KeyEvent arg0) {
                 switch (arg0.getKeyCode()) {
                     case KeyEvent.VK_LEFT:
@@ -178,6 +204,7 @@ public class ExtentProgressBar extends JProgressBar {
                     default:
                         // the default case here
                         System.out.println("Unrecognized key code: " + arg0.getKeyCode());
+
 
                 }
             }

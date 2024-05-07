@@ -1,0 +1,41 @@
+
+K
+java:S1066«"/Merge this if statement with the enclosing one.(àâç©úÿÿÿÿ
+o	java:S116Ï"ZRename this field "m_cardSidePanel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸Ü
+z
+java:S1149B"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¨âàøÿÿÿÿ
+g	java:S1163"RRename this field "m_cards" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•²ÀŞ
+z
+java:S1149B"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¨âàøÿÿÿÿ
+j	java:S116\"URename this field "m_category" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯™ø
+l	java:S116"QRename this field "m_text" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ñ¸£ûÿÿÿÿ
+k	java:S116‚"URename this field "m_document" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°°åÉ
+m	java:S116ƒ"RRename this field "m_start" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šíÑ¯üÿÿÿÿ
+k	java:S116„"PRename this field "m_end" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨¦åûÿÿÿÿ
+8
+java:S1116Œ"Remove this empty statement.(ÑÏÿ¯şÿÿÿÿ
+p	java:S116¦"ZRename this field "m_formattedText" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô…ĞÜ
+a
+java:S1124Æ"EReorder the modifiers to comply with the Java Language Specification.(ĞÖš‡ÿÿÿÿÿ
+\
+java:S1124É"EReorder the modifiers to comply with the Java Language Specification.(ø¸¥©
+\
+java:S1124Ì"EReorder the modifiers to comply with the Java Language Specification.(á³¤ 
+V
+java:S1161İ":Add the "@Override" annotation above this method signature(¶…ªúÿÿÿÿ
+Q
+java:S1161å":Add the "@Override" annotation above this method signature(Ø†íã
+n
+java:S3776†"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(‚¼óèÿÿÿÿÿ
+V
+java:S1161†":Add the "@Override" annotation above this method signature(‚¼óèÿÿÿÿÿ
+g
+java:S6201•"KReplace this instanceof check and cast with 'instanceof JTextPane textPane'(ËÅæŞÿÿÿÿÿ
+V
+java:S1161ï":Add the "@Override" annotation above this method signature(ú‡¸¸øÿÿÿÿ
+g
+java:S6201ş"KReplace this instanceof check and cast with 'instanceof JTextPane textPane'(×Š˜Äüÿÿÿÿ
+V
+java:S1161“":Add the "@Override" annotation above this method signature(îúÃ­úÿÿÿÿ
+â
+java:S6541†"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 90 to 64, Complexity from 18 to 14, Nesting Level from 6 to 2, Number of Variables from 18 to 6.(‚¼óèÿÿÿÿÿ

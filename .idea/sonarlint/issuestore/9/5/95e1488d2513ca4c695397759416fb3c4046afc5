@@ -1,0 +1,44 @@
+
+K
+java:S3740«"/Provide the parametrized type for this generic.(¿ƒÈÊøÿÿÿÿ
+F
+java:S3740¥"/Provide the parametrized type for this generic.(³„õ¢
+p
+java:S2293÷"YReplace the type specification in this constructor call with the diamond operator ("<>").(ş¤Ôç
+p
+java:S2293·"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÉŒ—é
+?
+java:S1604Æ"(Make this anonymous inner class a lambda(íˆüş
+I
+java:S1199‹"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+l	java:S116î"VRename this field "FOLDER_ICON" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÇÜï
+t	java:S116ò"YRename this field "m_rootCategory" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğÔ…µÿÿÿÿÿ
+u	java:S116õ"_Rename this field "m_beforeMenuCategory" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘¹éê
+u	java:S116÷"_Rename this field "m_selectionObservers" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş¤Ôç
+o	java:S116ø"YRename this field "m_categoryMenu" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢¡Â
+x	java:S116ù"bRename this field "m_reopeningCategoryMenu" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú½‡
+O
+java:S1161V":Add the "@Override" annotation above this method signature(¿ÛÍ
+
+U
+java:S1161w":Add the "@Override" annotation above this method signature(—”ãàøÿÿÿÿ
+p	java:S116…"[Rename this field "m_editedCategory" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†‹¶;
+r	java:S116†"WRename this field "m_editedNode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øØõÏùÿÿÿÿ
+V
+java:S1161":Add the "@Override" annotation above this method signature(å‡å¸ùÿÿÿÿ
+Q
+java:S1161³":Add the "@Override" annotation above this method signature(ê¾—É
+j	java:S116Â"TRename this field "m_wrapped" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ëè¶
+R	java:S125‡"<This block of commented-out lines of code should be removed.(Ú°à¬
+I
+java:S1135»"2Complete the task associated to this TODO comment.(¢Ä†¹
+8	java:S131Ñ""Add a default case to this switch.(Æø—Ø
+n
+java:S3776Ä"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(Œ÷ë„ÿÿÿÿÿ
+P
+java:S1161Î":Add the "@Override" annotation above this method signature(Ä·
+Q
+java:S1161å":Add the "@Override" annotation above this method signature(×ÅÎ¹
+R	java:S125Š"<This block of commented-out lines of code should be removed.(Á¿èÜ
+R
+java:S1068ù";Remove this unused "m_reopeningCategoryMenu" private field.(Ú½‡

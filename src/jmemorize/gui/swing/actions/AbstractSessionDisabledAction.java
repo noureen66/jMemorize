@@ -15,11 +15,15 @@ import jmemorize.core.learn.LearnSessionObserver;
 public abstract class AbstractSessionDisabledAction extends AbstractAction2 
     implements LearnSessionObserver
 {
-    public AbstractSessionDisabledAction()
+
+    /*BUG #1
+     * FIXED NOUREEN*/
+    protected AbstractSessionDisabledAction()
     {
         Main.getInstance().addLearnSessionObserver(this);
         updateEnablement();
     }
+    
     
     /* (non-Javadoc)
      * @see jmemorize.core.LearnSessionObserver#sessionStarted(jmemorize.core.LearnSession)

@@ -1,0 +1,10 @@
+
+s	java:S116+"^Rename this field "m_selectionProvider" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Éèîõ
+g
+java:S37769"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(à‚û6
+^
+java:S5738@"HRemove this call to a deprecated method, it has been marked for removal.(¨Œáõ
+6
+java:S2129^"!Remove this "Integer" constructor(†è√
+]
+java:S5738^"HRemove this call to a deprecated method, it has been marked for removal.(†è√

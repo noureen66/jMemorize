@@ -1,0 +1,68 @@
+
+E
+java:S3740P"/Provide the parametrized type for this generic.(Î«ùË
+J
+java:S3740U"/Provide the parametrized type for this generic.(ºÔášøÿÿÿÿ
+J
+java:S3740U"/Provide the parametrized type for this generic.(ºÔášøÿÿÿÿ
+J
+java:S3740V"/Provide the parametrized type for this generic.(ä¥óÃüÿÿÿÿ
+J
+java:S3740V"/Provide the parametrized type for this generic.(ä¥óÃüÿÿÿÿ
+E
+java:S3740W"/Provide the parametrized type for this generic.(œÛóØ
+E
+java:S3740W"/Provide the parametrized type for this generic.(œÛóØ
+J
+java:S3740_"/Provide the parametrized type for this generic.(¼•¨Ÿúÿÿÿÿ
+J
+java:S3740_"/Provide the parametrized type for this generic.(¼•¨Ÿúÿÿÿÿ
+E
+java:S3740u"/Provide the parametrized type for this generic.(¥“Ìô
+F
+java:S3740±"/Provide the parametrized type for this generic.(Îû¿œ
+t
+java:S2293["YReplace the type specification in this constructor call with the diamond operator ("<>").(Õƒ®éûÿÿÿÿ
+u
+java:S2293Å"YReplace the type specification in this constructor call with the diamond operator ("<>").(˜ñÏÿüÿÿÿÿ
+d
+java:S1192´"HDefine a constant instead of duplicating this literal "%s (%s)" 4 times.(‘ÊÒáÿÿÿÿÿ
+>
+java:S1604Á"(Make this anonymous inner class a lambda(Â´ä
+D
+java:S1604Ì"(Make this anonymous inner class a lambda(‹·¤úÿÿÿÿ
+?
+java:S1604Ú"(Make this anonymous inner class a lambda(şĞ—ê
+D
+java:S1604‰"(Make this anonymous inner class a lambda( ù‹±üÿÿÿÿ
+?
+java:S1604’"(Make this anonymous inner class a lambda(™¬ŞÔ
+?
+java:S1604™"(Make this anonymous inner class a lambda(¹Ëš™
+m	java:S116P"XRename this field "m_fontSideBox" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î«ùË
+r	java:S116R"]Rename this field "m_verticalAlignBox" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ ¥
+o	java:S116U"URename this field "m_sizeList" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºÔášøÿÿÿÿ
+o	java:S116V"URename this field "m_fontList" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä¥óÃüÿÿÿÿ
+k	java:S116W"VRename this field "m_alignList" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÛóØ
+s	java:S116Y"YRename this field "m_previewLabel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•Ÿç‘úÿÿÿÿ
+l	java:S116["RRename this field "m_fonts" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õƒ®éûÿÿÿÿ
+m	java:S116\"YRename this field "m_changingFont" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñâ Q
+s	java:S116_"YRename this field "m_langComboBox" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼•¨Ÿúÿÿÿÿ
+v	java:S116`"\Rename this field "m_zippedLessonBox" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œë´Èşÿÿÿÿ
+m	java:S116c"XRename this field "m_applyButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷–ºç
+t	java:S116f"ZRename this field "m_settingsPanel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£“ÎÁùÿÿÿÿ
+|
+java:S1149Ã"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ä²î
+
+java:S1149Å"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(˜ñÏÿüÿÿÿÿ
+{
+java:S1149È"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ÿã“¤úÿÿÿÿ
+H
+java:S1135W"2Complete the task associated to this TODO comment.(œÛóØ
+\
+java:S3252Y"AUse static access with "javax.swing.SwingConstants" for "CENTER".(•Ÿç‘úÿÿÿÿ
+W	java:S125œ"<This block of commented-out lines of code should be removed.(ÚÛô¥øÿÿÿÿ
+g
+java:S1301÷"KReplace this "switch" statement by "if" statements to increase readability.( ’Õ¤úÿÿÿÿ
+H
+java:S1135µ"2Complete the task associated to this TODO comment.(—ğÑ

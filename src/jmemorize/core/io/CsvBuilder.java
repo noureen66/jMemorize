@@ -44,12 +44,14 @@ import com.csvreader.CsvReader.FinalizedException;
  */
 public class CsvBuilder
 {
+
     /*BUG 4
      * Fixed
      */
     public CsvBuilder() {
         throw new IllegalStateException("CSV class");
     }
+
 
     public static final String FRONTSIDE_COL = "Frontside";
     public static final String FLISIDE_COL   = "Flipside";

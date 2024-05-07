@@ -46,6 +46,16 @@ public class CategoryComboBox extends JComboBox implements CategoryObserver {
          * 
          * @see javax.swing.plaf.basic.BasicComboBoxRenderer
          */
+
+
+        
+        public Component getListCellRendererComponent(JList list, Object value,
+            int index, boolean isSelected, boolean cellHasFocus)
+        {
+            Category cat = (Category)value;
+            JLabel label = (JLabel)super.getListCellRendererComponent(list, 
+                cat.getName(), index, isSelected, cellHasFocus);
+
         /*
          * Bug #3
          * FIXED by Eman*
@@ -56,6 +66,7 @@ public class CategoryComboBox extends JComboBox implements CategoryObserver {
             Category cat = (Category) value;
             JLabel label = (JLabel) super.getListCellRendererComponent(list,
                     cat.getName(), index, isSelected, cellHasFocus);
+
             label.setIcon(FOLDER_ICON);
 
             // show items in combo list indented.

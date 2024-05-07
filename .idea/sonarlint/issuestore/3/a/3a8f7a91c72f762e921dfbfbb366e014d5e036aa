@@ -1,0 +1,33 @@
+
+
+java:S2293°"YReplace the type specification in this constructor call with the diamond operator ("<>").(å…¥ì8Æéµ¨ô1J$cc47cc66-dd75-4cc5-ae45-c66a1c533c10
+¢
+java:S2293»"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÍÂ¹ùşÿÿÿÿ8Æéµ¨ô1J$c499d384-806d-4de5-8749-93bf1cced5f7
+…
+java:S2184"ACast one of the operands of this addition operation to a "float".(Ù½“8Æéµ¨ô1J$8a047f2a-4ddc-4fc5-86bd-b22c55a9bab1
+v
+java:S1199ì"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8Æéµ¨ô1J$f6f593ef-af91-4006-8099-5be166e237ba
+š	java:S116D"XRename this field "m_cardsPassed" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òşÙç8Ùéµ¨ô1J$55cf1871-33cc-4aa0-8db9-81566a361fb4
+¨	java:S116E"aRename this field "m_cardsPartiallyPassed" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ÒÇøÿÿÿÿ8Ùéµ¨ô1J$8229bcab-e3b2-4053-8a04-4a716a89df25
+Ÿ	java:S116F"XRename this field "m_cardsTarget" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ¿Ñİúÿÿÿÿ8Ùéµ¨ô1J$42ac6a78-9ccd-4196-a559-688bc94da20a
+¢	java:S116G"`Rename this field "m_showPartiallyPassed" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Äà¬8Ùéµ¨ô1J$a0dab256-786f-4d2c-aa83-6b3ec7488dc2
+–	java:S116I"TRename this field "m_session" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñÓº¯8Ùéµ¨ô1J$26ea3029-4329-4bd8-9311-2037c162a0a6
+”	java:S116J"RRename this field "m_cards" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•²ÀŞ8Ùéµ¨ô1J$bd173eb6-437c-4c34-93a8-10ca1cdd8477
+	java:S116L"WRename this field "m_pieDataset" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÃÀùÿÿÿÿ8Ùéµ¨ô1J$399f1be8-0864-4f21-aa53-dfa9537182fd
+—	java:S116M"PRename this field "m_bar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ş„şÿÿÿÿ8Ùéµ¨ô1J$a0d89d0b-ecf6-4dac-bc52-f25f108a9ea7
+	java:S116N"VRename this field "m_textField" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ§èÿÿÿÿÿ8Ùéµ¨ô1J$a2309955-bbe7-4a1f-ab3a-17323339b36e
+Ÿ
+java:S3008@"WRename this field "USE_PIECHART" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ–‹Ôüÿÿÿÿ8Şéµ¨ô1J$39c9c7a4-6a19-4f37-923c-6130bfd10d79
+¡
+java:S3008A"YRename this field "USE_EXTENT_BAR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—Î§–üÿÿÿÿ8Şéµ¨ô1J$90fce9b2-a46e-4ef6-a992-c23ad3d30747
+
+java:S3008B"ZRename this field "USE_PARTIAL_BAR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š»˜ù8Şéµ¨ô1J$0e71d5ce-f597-4b95-89aa-4a1340806d98
+„
+java:S3252¹"AUse static access with "javax.swing.SwingConstants" for "CENTER".(Ä€„8«¤›ªô1J$16057124-61f1-478b-b77f-cf7d2c8928e9
+	java:S125å"<This block of commented-out lines of code should be removed.(Ì›İ£8úéµ¨ô1J$193069de-cce2-4c59-b4d1-48660aa84f69
+„	java:S125ó"<This block of commented-out lines of code should be removed.(ı’“ıÿÿÿÿ8úéµ¨ô1J$b59a6ca0-680c-474e-8a7c-9ff529d1eeb7
+	java:S125¢"<This block of commented-out lines of code should be removed.(çÆ“¨8êµ¨ô1J$9c5169d0-4556-4f92-8e9b-ac5ec791ce77
+“	java:S116Ç"PRename this field "m_obs" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ ÂÅ8êµ¨ô1J$6679441e-81a0-4d22-a8c9-8d6795ea8b69
+„	java:S125æ"<This block of commented-out lines of code should be removed.(·ÅÈ°şÿÿÿÿ8êµ¨ô1J$1ba2b8b1-d6ff-495d-bc99-589d2a82a41e
+{
+java:S1135ó"2Complete the task associated to this TODO comment.(¶ï²™üÿÿÿÿ8‰êµ¨ô1J$1b89df59-6286-41e7-b3fc-cec9d4cc6f53

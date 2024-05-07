@@ -1,0 +1,15 @@
+
+o
+java:S22932"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ş°°»
+t
+java:S2293D"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÿ‹àüÿÿÿÿ
+t
+java:S2293V"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÿ‹àüÿÿÿÿ
+`
+java:S11928"JDefine a constant instead of duplicating this literal "expected:" 3 times.(¨è•¬
+`
+java:S11928"JDefine a constant instead of duplicating this literal " but was " 3 times.(¨è•¬
+U
+java:S1118":Add a private constructor to hide the implicit public one.(¯áã™üÿÿÿÿ
+o
+java:S30125"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Ğúí÷

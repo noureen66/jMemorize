@@ -1,0 +1,96 @@
+
+K
+java:S3740Ô"/Provide the parametrized type for this generic.(‡ô±½ûÿÿÿÿ
+F
+java:S3740Õ"/Provide the parametrized type for this generic.(Ñõ”
+p
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ù½úÒ
+p
+java:S2293µ"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡ç¸Ü
+u
+java:S2293û"YReplace the type specification in this constructor call with the diamond operator ("<>").(–ó¸¶ùÿÿÿÿ
+u
+java:S2293ö"YReplace the type specification in this constructor call with the diamond operator ("<>").(Œï¨µúÿÿÿÿ
+_
+java:S6208‹"CMerge the previous cases into this one using comma-separated label.(Š«Û°üÿÿÿÿ
+_
+java:S6208µ"CMerge the previous cases into this one using comma-separated label.(Š«Û°üÿÿÿÿ
+Z
+java:S6208»"CMerge the previous cases into this one using comma-separated label.(ÑÍ“
+D
+java:S1604‚"(Make this anonymous inner class a lambda(ÚÍÆØøÿÿÿÿ
+u	java:S116"ZRename this field "m_checkBoxItems" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á‘îŞûÿÿÿÿ
+r	java:S116Ÿ"WRename this field "m_headerMenu" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş×Œ¢şÿÿÿÿ
+p	java:S116¡"URename this field "m_cardMenu" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•º®üÿÿÿÿ
+l	java:S116¢"VRename this field "m_statusBar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ‡¯‡
+v	java:S116¥"[Rename this field "m_ascendingArrow" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßİøíûÿÿÿÿ
+r	java:S116¦"\Rename this field "m_descendingArrow" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùíÍŞ
+l	java:S116©"VRename this field "m_highlight" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïÆä¹
+r	java:S116«"WRename this field "m_tableModel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹Ê»Áøÿÿÿÿ
+j	java:S116¬"TRename this field "m_columns" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®±Ú«
+q	java:S116­"[Rename this field "m_defaultColumns" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´šøØ
+t	java:S116®"YRename this field "m_columnWidths" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ°’Şşÿÿÿÿ
+u	java:S116¯"ZRename this field "m_frontSideFont" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ãœËÿÿÿÿÿ
+t	java:S116°"YRename this field "m_flipSideFont" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á¦ŞÑúÿÿÿÿ
+g	java:S116±"RRename this field "m_prefs" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ìš
+y	java:S116²"^Rename this field "m_minTableRowHeight" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çìğ§úÿÿÿÿ
+m	java:S116´"RRename this field "m_frame" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Šğ°Ïüÿÿÿÿ
+u	java:S116µ"_Rename this field "m_selectionListeners" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ç¸Ü
+N
+java:S1948¥"2Make "m_ascendingArrow" transient or serializable.(ßİøíûÿÿÿÿ
+J
+java:S1948¦"3Make "m_descendingArrow" transient or serializable.(ùíÍŞ
+?
+java:S1948±")Make "m_prefs" transient or serializable.(•ìš
+k	java:S116_"QRename this field "m_font" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ôŠşÿÿÿÿ
+P
+java:S1161f":Add the "@Override" annotation above this method signature(íÔ­¢
+`
+java:S6201p"EReplace this instanceof check and cast with 'instanceof JLabel label'(õçúÿÿÿÿ
+i	java:S116‰"SRename this field "m_suffix" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹¬‡¯
+Q
+java:S1161":Add the "@Override" annotation above this method signature(íÔ­¢
+m	java:S116"WRename this field "m_nullString" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßš²
+Q
+java:S1161¤":Add the "@Override" annotation above this method signature(¹’›¼
+V
+java:S1161²":Add the "@Override" annotation above this method signature(¡µÏıÿÿÿÿ
+r	java:S116È"WRename this field "m_modelIndex" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÑùÎÿÿÿÿÿ
+]
+java:S6201ô"AReplace this instanceof check and cast with 'instanceof JLabel l'(üµêÁúÿÿÿÿ
+h	java:S116"RRename this field "m_cards" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù½úÒ
+k	java:S116"URename this field "m_category" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯™ø
+r	java:S116’"\Rename this field "m_orderModelIndex" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜†’
+k	java:S116“"URename this field "m_orderDir" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö£Ø
+V
+java:S1161Ê":Add the "@Override" annotation above this method signature(ÌõçÖıÿÿÿÿ
+Q
+java:S1161Ò":Add the "@Override" annotation above this method signature(¸å÷ş
+Q
+java:S1161Î":Add the "@Override" annotation above this method signature(×ÅÎ¹
+I
+java:S1135é"2Complete the task associated to this TODO comment.(–Ë’®
+F
+java:S1197ı"*Move the array designators [] to the type.(‹×ƒøÿÿÿÿ
+V
+java:S1161Œ":Add the "@Override" annotation above this method signature(àˆ¬ùÿÿÿÿÿ
+Q
+java:S1161 ":Add the "@Override" annotation above this method signature(Á§”«
+V
+java:S1161Ì":Add the "@Override" annotation above this method signature(¡ºÈ‰ıÿÿÿÿ
+V
+java:S1161â":Add the "@Override" annotation above this method signature(¦ï™ßøÿÿÿÿ
+Q
+java:S1161§":Add the "@Override" annotation above this method signature(×ÅÎ¹
+Q
+java:S1161º":Add the "@Override" annotation above this method signature(‚õç×
+^
+java:S5738Ø"HRemove this call to a deprecated method, it has been marked for removal.(üÇŠf
+d
+java:S5738í"HRemove this call to a deprecated method, it has been marked for removal.(¾‹Şïøÿÿÿÿ
+8
+java:S2129„"!Remove this "Integer" constructor(Êí¯ñ
+_
+java:S5738„"HRemove this call to a deprecated method, it has been marked for removal.(Êí¯ñ
+n
+java:S3776’"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¥öáÿÿÿÿÿ

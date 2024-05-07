@@ -1,0 +1,78 @@
+
+J
+java:S3740A"/Provide the parametrized type for this generic.(­úœæøÿÿÿÿ
+J
+java:S3740C"/Provide the parametrized type for this generic.(Ğ°Éøùÿÿÿÿ
+J
+java:S3740D"/Provide the parametrized type for this generic.(¬ğÏüÿÿÿÿ
+J
+java:S3740E"/Provide the parametrized type for this generic.(İ§üÿÿÿÿ
+J
+java:S3740G"/Provide the parametrized type for this generic.(ÔŠÈÒùÿÿÿÿ
+J
+java:S3740G"/Provide the parametrized type for this generic.(ÔŠÈÒùÿÿÿÿ
+J
+java:S3740M"/Provide the parametrized type for this generic.( ‰’üÿÿÿÿ
+J
+java:S3740a"/Provide the parametrized type for this generic.(îµ—øÿÿÿÿ
+J
+java:S3740c"/Provide the parametrized type for this generic.(Š°ûøÿÿÿÿ
+J
+java:S3740l"/Provide the parametrized type for this generic.(Ÿ­€ ûÿÿÿÿ
+F
+java:S3740È"/Provide the parametrized type for this generic.(›Üô 
+F
+java:S3740È"/Provide the parametrized type for this generic.(›Üô 
+K
+java:S3740÷"/Provide the parametrized type for this generic.(ƒ»ÀÊùÿÿÿÿ
+F
+java:S3740ø"/Provide the parametrized type for this generic.(Ş’õ
+K
+java:S3740‰"/Provide the parametrized type for this generic.(—×ö˜ûÿÿÿÿ
+F
+java:S3740­"/Provide the parametrized type for this generic.(çŠ÷º
+K
+java:S3740°"/Provide the parametrized type for this generic.(¢ÄŞªÿÿÿÿÿ
+K
+java:S3740À"/Provide the parametrized type for this generic.(¹şÙßşÿÿÿÿ
+F
+java:S3740Ë"/Provide the parametrized type for this generic.(¹Œ€ß
+p
+java:S2293ª"YReplace the type specification in this constructor call with the diamond operator ("<>").(›Ò•œ
+y	java:S116A"_Rename this field "m_equivalenceClasses" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­úœæøÿÿÿÿ
+k	java:S116B"QRename this field "m_size" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ÂÍÈøÿÿÿÿ
+q	java:S116C"WRename this field "m_comparator" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ°Éøùÿÿÿÿ
+w	java:S116D"]Rename this field "m_loopEqvClassIter" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ğÏüÿÿÿÿ
+z	java:S116E"`Rename this field "m_loopCurrentEqvClass" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ§üÿÿÿÿ
+n	java:S116F"YRename this field "m_loopItemIter" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úéª·
+u	java:S116M"[Rename this field "m_itemToClassMap" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ‰’üÿÿÿÿ
+o	java:S116Q"URename this field "m_changeID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù£òÒúÿÿÿÿ
+{	java:S116S"fRename this field "m_shuffleEquivalenceClasses" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê¦ç 
+A
+java:S21609"+Override the "equals" method in this class.(ğ­ÿ¼
+`
+java:S1124G"EReorder the modifiers to comply with the Java Language Specification.(ÔŠÈÒùÿÿÿÿ
+H
+java:S1135O"2Complete the task associated to this TODO comment.(¼–ˆı
+W
+java:S1126}"AReplace this if-then-else statement by a single return statement.(Ù¤Ö
+P
+java:S1161•":Add the "@Override" annotation above this method signature(ğ¨“
+P
+java:S1161Ï":Add the "@Override" annotation above this method signature(ğ¨“
+Q
+java:S1161‘":Add the "@Override" annotation above this method signature(»—¢ü
+n
+java:S3776¡"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ó±ÈÆüÿÿÿÿ
+:
+java:S1659Ë"$Declare "addIdx" on a separate line.(„³ñ
+V
+java:S1161¢":Add the "@Override" annotation above this method signature(ü‚”²şÿÿÿÿ
+V
+java:S1161®":Add the "@Override" annotation above this method signature(–œ½üüÿÿÿÿ
+]
+java:S1126±"AReplace this if-then-else statement by a single return statement.(ù­­ìøÿÿÿÿ
+V
+java:S1161¼":Add the "@Override" annotation above this method signature(ÿüÉÌüÿÿÿÿ
+n
+java:S3776Æ"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(«ğ–İıÿÿÿÿ

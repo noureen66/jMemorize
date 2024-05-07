@@ -1,0 +1,25 @@
+
+D
+java:S1604á"(Make this anonymous inner class a lambda(ˆÎ°Ãıÿÿÿÿ
+r	java:S116’"WRename this field "m_showButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍÇ ‡ÿÿÿÿÿ
+q	java:S116“"VRename this field "m_yesButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÿ½Òüÿÿÿÿ
+y	java:S116•"^Rename this field "m_questionCardPanel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ÷±ºıÿÿÿÿ
+l	java:S116–"QRename this field "m_quiz" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡“ä×øÿÿÿÿ
+v	java:S116—"[Rename this field "m_answerBarPanel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïâ€Âúÿÿÿÿ
+r	java:S116˜"]Rename this field "m_questionBarPanel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­r
+p	java:S116™"URename this field "m_barPanel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë· àüÿÿÿÿ
+j	java:S116›"TRename this field "m_session" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñÓº¯
+n	java:S116œ"XRename this field "m_currentCard" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²üçš
+s	java:S116"XRename this field "m_showFlipped" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢‹¦Øøÿÿÿÿ
+w	java:S116"\Rename this field "m_frontWasVisible" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èşïáÿÿÿÿÿ
+s	java:S116 "]Rename this field "m_categoryCheckBox" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ôñœ
+u	java:S116¢"ZRename this field "m_categoryField" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öúî‰ùÿÿÿÿ
+v	java:S116¤"[Rename this field "m_isShowQuestion" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×üº†ÿÿÿÿÿ
+o	java:S116¥"YRename this field "m_isShowAnswer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†î‚§
+
+java:S3008§"cRename this field "PREFS_SHOW_CARD_CATEGORY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş‡ñãşÿÿÿÿ
+t	java:S116?"ZRename this field "m_shortCutAdded" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ·¼—ùÿÿÿÿ
+t
+java:S3252C"YUse static access with "javax.swing.JComponent" for "WHEN_ANCESTOR_OF_FOCUSED_COMPONENT".(Ó€„ûÿÿÿÿ
+?
+java:S3398Ê"#Move this method into "ShowAction".(‰üµšúÿÿÿÿ

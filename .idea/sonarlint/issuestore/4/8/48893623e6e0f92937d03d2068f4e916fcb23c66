@@ -1,0 +1,21 @@
+
+l	java:S116."RRename this field "m_label" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã¬şÿÿÿÿ
+k	java:S116/"VRename this field "m_iconLabel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£í²×
+o	java:S1161"URename this field "m_expanded" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÓ¤òşÿÿÿÿ
+k	java:S1162"QRename this field "m_card" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä‘Ü‘şÿÿÿÿ
+s	java:S1164"YRename this field "m_expandedIcon" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ó¢ğüÿÿÿÿ
+o	java:S1165"ZRename this field "m_collapsedIcon" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™‡ø‘
+K
+java:S19484"0Make "m_expandedIcon" transient or serializable.(€ó¢ğüÿÿÿÿ
+G
+java:S19485"1Make "m_collapsedIcon" transient or serializable.(™‡ø‘
+u
+java:S1149g"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+u
+java:S1149x"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ù¤šÕ
+v
+java:S1149—"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+T
+java:S3252J">Use static access with "javax.swing.SwingConstants" for "TOP".(ÓÓÇ©
+P
+java:S1161U":Add the "@Override" annotation above this method signature(×ÅÎ¹

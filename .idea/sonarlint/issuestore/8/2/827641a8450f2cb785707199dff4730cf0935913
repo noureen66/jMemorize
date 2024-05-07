@@ -1,0 +1,60 @@
+
+p
+java:S2293ƒ"YReplace the type specification in this constructor call with the diamond operator ("<>").(½–’›
+u
+java:S2293†"YReplace the type specification in this constructor call with the diamond operator ("<>").(’Şïüÿÿÿÿ
+o
+java:S2293ñ"YReplace the type specification in this constructor call with the diamond operator ("<>").(áš‹
+p
+java:S2293ø"YReplace the type specification in this constructor call with the diamond operator ("<>").(òíŸ©
+?
+java:S1604İ"(Make this anonymous inner class a lambda(ºª•µ
+D
+java:S1604ì"(Make this anonymous inner class a lambda(ì¨ºøÿÿÿÿ
+o	java:S116û"YRename this field "m_contentPanel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ‡‚µ
+k	java:S116ü"URename this field "m_imageBar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³¡Â 
+m	java:S116ı"WRename this field "m_imageLabel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶šà°
+k	java:S116ÿ"URename this field "m_textPane" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹åÏÕ
+v	java:S116€"[Rename this field "m_textScrollPane" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃËËÿÿÿÿÿ
+m	java:S116"WRename this field "m_imagePanel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘©º
+i	java:S116ƒ"SRename this field "m_images" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½–’›
+o	java:S116„"YRename this field "m_currentImage" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ÿç
+l	java:S116…"QRename this field "m_mode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘“Ü¹üÿÿÿÿ
+v	java:S116†"[Rename this field "m_imageObservers" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’Şïüÿÿÿÿ
+j	java:S116‡"URename this field "m_cardFont" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶¢O
+r	java:S116‰"\Rename this field "m_prevImageButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ìÚÌ
+w	java:S116Š"\Rename this field "m_nextImageButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕÄ¼ïùÿÿÿÿ
+q	java:S116Œ"[Rename this field "m_textModeButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ãÿø
+r	java:S116"\Rename this field "m_imageModeButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıò²
+z	java:S116"_Rename this field "m_imageTexModeButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òÿËêÿÿÿÿÿ
+w
+java:S1450‰"`Remove the "m_prevImageButton" field and declare it as a local variable in the relevant methods.(€ìÚÌ
+N
+java:S1948†"2Make "m_imageObservers" transient or serializable.(’Şïüÿÿÿÿ
+g	java:S116`"RRename this field "m_image" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×Ö£‡
+n	java:S116a"TRename this field "m_padding" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èƒ¦ùÿÿÿÿ
+?
+java:S1948`")Make "m_image" transient or serializable.(×Ö£‡
+c
+java:S6201"GReplace this instanceof check and cast with 'instanceof Graphics2D g2d'(Ó‚ÍÏıÿÿÿÿ
+Q
+java:S1161Ÿ":Add the "@Override" annotation above this method signature(ôîÅì
+N
+java:S1135¤"2Complete the task associated to this TODO comment.(øÌÜåşÿÿÿÿ
+V
+java:S1161Õ":Add the "@Override" annotation above this method signature(ˆ¹œÛıÿÿÿÿ
+l	java:S116ì"QRename this field "m_mode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘“Ü¹üÿÿÿÿ
+3
+java:S1116ù"Remove this empty statement.(²š™ 
+P
+java:S1161¨":Add the "@Override" annotation above this method signature(ñÙú 
+Z
+java:S1155Û">Use isEmpty() to check whether the collection is empty or not.(áõôïúÿÿÿÿ
+Z
+java:S1155ø">Use isEmpty() to check whether the collection is empty or not.(Ê€Ÿñùÿÿÿÿ
+W	java:S125¹"<This block of commented-out lines of code should be removed.(¾µ³óøÿÿÿÿ
+R	java:S125Ñ"<This block of commented-out lines of code should be removed.(¨ø¢À
+U
+java:S1874ş">Remove this use of "getMenuShortcutKeyMask"; it is deprecated.(«í”ù
+v
+java:S3252­"ZUse static access with "javax.swing.ScrollPaneConstants" for "HORIZONTAL_SCROLLBAR_NEVER".(õ½©Úÿÿÿÿÿ

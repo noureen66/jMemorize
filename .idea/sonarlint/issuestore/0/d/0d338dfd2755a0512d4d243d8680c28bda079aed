@@ -1,0 +1,19 @@
+
+o
+java:S2293`"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡ç¸Ü
+u
+java:S2293µ"YReplace the type specification in this constructor call with the diamond operator ("<>").(³£»°úÿÿÿÿ
+u
+java:S2293Ï"YReplace the type specification in this constructor call with the diamond operator ("<>").(î„´ûÿÿÿÿ
+i	java:S116N"TRename this field "m_session" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñÓº¯
+m	java:S116O"XRename this field "m_currentCard" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²üçš
+q	java:S116Q"WRename this field "m_timerPanel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯éÄÍşÿÿÿÿ
+w	java:S116R"]Rename this field "m_cardCounterPanel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—Õàµùÿÿÿÿ
+s	java:S116T"YRename this field "m_flippedLabel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠÓğ“şÿÿÿÿ
+	java:S116["eRename this field "m_currentCardProgressLabel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ¤”şüÿÿÿÿ
+}	java:S116\"cRename this field "m_currentCardProgressBar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œä’Âÿÿÿÿÿ
+|	java:S116]"bRename this field "m_isPartialProgressMode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙßÙ²üÿÿÿÿ
+k	java:S116_"VRename this field "m_statusBar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ‡¯‡
+t	java:S116`"_Rename this field "m_selectionListeners" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ç¸Ü
+d
+java:S5738Î"HRemove this call to a deprecated method, it has been marked for removal.(Áğ¢Œøÿÿÿÿ

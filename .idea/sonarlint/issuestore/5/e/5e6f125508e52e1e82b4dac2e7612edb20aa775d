@@ -1,0 +1,20 @@
+
+p	java:S116/"VRename this field "m_leftLabel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ’áıÿÿÿÿ
+l	java:S1160"WRename this field "m_rightLabel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßëî½
+M
+java:S1135-"2Complete the task associated to this TODO comment.(í¯ø®ùÿÿÿÿ
+V	java:S125Y"<This block of commented-out lines of code should be removed.(×óóÏüÿÿÿÿ
+c
+java:S5738`"HRemove this call to a deprecated method, it has been marked for removal.(óÚÃĞûÿÿÿÿ
+7
+java:S2129a"!Remove this "Integer" constructor(ëÓË¨
+^
+java:S5738a"HRemove this call to a deprecated method, it has been marked for removal.(ëÓË¨
+7
+java:S2129b"!Remove this "Integer" constructor(ÂÃÙŠ
+^
+java:S5738b"HRemove this call to a deprecated method, it has been marked for removal.(ÂÃÙŠ
+<
+java:S2129c"!Remove this "Integer" constructor(”¯ˆ€üÿÿÿÿ
+c
+java:S5738c"HRemove this call to a deprecated method, it has been marked for removal.(”¯ˆ€üÿÿÿÿ

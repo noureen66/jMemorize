@@ -1,0 +1,82 @@
+
+–
+java:S2293Õ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÉÍü•J$e39c4095-666f-4e11-95ed-4f3b2513f3c1
+–
+java:S2293Ö"YReplace the type specification in this constructor call with the diamond operator ("<>").(åÏ¡J$8b189546-45c0-46da-a28d-c79ad5447260
+–
+java:S2293×"YReplace the type specification in this constructor call with the diamond operator ("<>").(®âÏâJ$f89d8215-bd18-4705-82c1-a08d996b8006
+›
+java:S2293æ"YReplace the type specification in this constructor call with the diamond operator ("<>").(¨Œ¾äúÿÿÿÿJ$7a924c34-c4bb-4532-bbc1-f51fd3e7d7e7
+–
+java:S2293ç"YReplace the type specification in this constructor call with the diamond operator ("<>").(Æ³ö›J$23817d7f-95da-42be-abd4-d012fb75e62c
+–
+java:S2293ë"YReplace the type specification in this constructor call with the diamond operator ("<>").(ùó•¶J$67fdcc21-2706-4651-9c8f-533e321d491d
+•
+java:S2293ó"YReplace the type specification in this constructor call with the diamond operator ("<>").(å³•J$1ed91369-b0a0-4a1a-8efc-81a20c11ed3c
+–
+java:S2293“"YReplace the type specification in this constructor call with the diamond operator ("<>").(«´ËàJ$cdd13d3d-da12-4922-94ef-a2e3e03f1649
+–
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(şõ›êJ$3013d53e-587d-4795-921a-1c4b7fe9be13
+›
+java:S2293‹"YReplace the type specification in this constructor call with the diamond operator ("<>").(‰¬©ÍıÿÿÿÿJ$e6863a10-b084-4974-b5b3-b08c07b5ab74
+›
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(‰¬©ÍıÿÿÿÿJ$68f69746-1caf-4a00-b4e7-e91b9c2ea428
+›
+java:S2293ƒ"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬ä­èùÿÿÿÿJ$7453b703-5db0-480e-81b2-3a58aed5e4b4
+›
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ñÕŸŒüÿÿÿÿJ$6375d3ec-0d97-4191-8f49-3285a59c2050
+–
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(£í‡”J$90745cad-585e-4080-86da-c5304a9a2cee
+–
+java:S2293£"YReplace the type specification in this constructor call with the diamond operator ("<>").(İúÚ¢J$5183361b-b260-4a42-8aed-bcf91a19cae4
+›
+java:S2293¹"YReplace the type specification in this constructor call with the diamond operator ("<>").(Šï¡üüÿÿÿÿJ$493800b6-3fe8-421c-9ad1-596a09d90993
+›
+java:S2293Ã"YReplace the type specification in this constructor call with the diamond operator ("<>").(µ¬æÓøÿÿÿÿJ$3ad49e5b-6766-4d55-a0b7-614aff4fcd23
+›
+java:S2293ß"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾©“•ıÿÿÿÿJ$cd62bbfd-4d74-479d-a690-7d18456c3c9e
+‘	java:S116Á"URename this field "m_category" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯™øJ$a55985b5-164d-4a43-bfb6-1ad10c8f1d61
+š	java:S116Ä"YRename this field "m_rootCategory" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğÔ…µÿÿÿÿÿJ$9501f596-7939-4e0a-8dfe-b758206b7258
+‘	java:S116Å"URename this field "m_settings" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó»ãåJ$127d733a-1405-4fb6-875e-9594a5b84152
+‘	java:S116Æ"URename this field "m_provider" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£àœ«J$e07ce114-fef2-413c-a97d-3015f4d33483
+	java:S116É"QRename this field "m_quit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êÜ£€J$b3185339-c7dc-4970-b7a1-e21286e983d5
+˜	java:S116Ê"\Rename this field "m_learningStarted" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ÄÔ¶J$36f2c896-adb6-4b79-b30c-bf0657e781b0
+	java:S116Ë"\Rename this field "m_currentCardInfo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÛ¯öÿÿÿÿÿJ$d947cd86-7d11-4ec7-ad76-66466c3f6557
+™	java:S116Ğ"XRename this field "m_cardsActive" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´†¯îıÿÿÿÿJ$e7e2f814-59d7-48a3-93eb-ef4cae1dde48
+•	java:S116Ñ"YRename this field "m_cardsReserve" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ñ€üJ$3d259361-e687-4b3f-b0e6-1c650c0730e8
+•	java:S116Õ"YRename this field "m_cardsChecked" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÍü•J$3c9e2ef6-fb97-4a35-bf60-d969e102c25e
+•	java:S116Ö"YRename this field "m_cardsLearned" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åÏ¡J$09d8ff2c-249e-4f63-a06a-0e073451feb5
+•	java:S116×"YRename this field "m_cardsInfoMap" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®âÏâJ$006a4146-5b07-4426-a18d-3925921cb700
+	java:S116æ"\Rename this field "m_cardsEverFailed" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨Œ¾äúÿÿÿÿJ$c23ed828-8c61-481d-adcb-d08968d95f9d
+•	java:S116ç"YRename this field "m_cardsSkipped" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ³ö›J$9c967174-2ca9-40e6-8a71-7c6c123ed6e6
+¤	java:S116ë"hRename this field "m_cardsActivePartiallyLearned" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùó•¶J$56f40dac-50e2-4e57-8407-41d0e61ce2bb
+’	java:S116ò"QRename this field "m_rand" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Ş¤ùùÿÿÿÿJ$e9a1ce9a-6ad3-4bf3-aa00-0e2ead2f0c18
+•	java:S116ó"ZRename this field "m_cardObservers" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å³•J$cda5648f-4e9e-4f8c-af85-e18c3acf26ae
+“	java:S116õ"RRename this field "m_start" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ€¹ıÿÿÿÿJ$4380d5ff-c3ee-4b4f-b2ef-a847c7e7443e
+‘	java:S116ö"PRename this field "m_end" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä‡¤²ùÿÿÿÿJ$35884972-3643-4c27-8a20-35e3560c7824
+”	java:S116ø"SRename this field "m_logger" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Š’áıÿÿÿÿJ$ff611992-974b-4931-b9b9-b04d6ef226c5
+š	java:S116T"_Rename this field "m_categoryGroupOrder" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÃ¹‘J$d7b8bc58-3630-423a-8af8-e4644921b4bb
+|	java:S125"<This block of commented-out lines of code should be removed.(Š¯ÑâùÿÿÿÿJ$4238ab09-aaa7-46f6-aad5-2ae774c48151
+’	java:S116—"QRename this field "m_card" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä‘Ü‘şÿÿÿÿJ$dd30f7b9-1123-4d7e-8cf7-b907b373707f
+“	java:S116"RRename this field "m_level" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û¡ú®úÿÿÿÿJ$f6dfa2c5-ed47-470f-8be7-4f01f5661180
+
+java:S3776ö"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(œÆÚ´J$4b97344c-2c65-43ae-a58f-1b15ea3b8148
+o
+java:S1135¬"2Complete the task associated to this TODO comment.(’¨ªëJ$08e5cb00-da28-498c-8fae-a066c46e8092
+^	java:S131´""Add a default case to this switch.(Æø—ØJ$65b7f747-fa83-4451-ad8a-b043cb9e7ab2
+t
+java:S1135Ú"2Complete the task associated to this TODO comment.(…Š·ÿÿÿÿÿJ$215859e4-334e-490a-a127-e04c595e103a
+t
+java:S1135î"2Complete the task associated to this TODO comment.(‡ÍàúüÿÿÿÿJ$e0c31d18-c620-4bfe-b58d-9aca33b0d563
+f
+java:S5413ª")Verify that "remove()" is used correctly.(—¹ôÛJ$f95f86de-68c0-40fe-83e3-22d9baa479ae
+^
+java:S2129ã"!Remove this "Integer" constructor(±ùŞJ$181e54f8-6ccb-4f38-8834-119d2dedd2d9
+…
+java:S5738ã"HRemove this call to a deprecated method, it has been marked for removal.(±ùŞJ$98ce4f52-f8d5-4f20-b4c6-b49d5272f216
+^
+java:S2129æ"!Remove this "Integer" constructor(»üÈJ$592bce95-38c4-4e34-9c32-7c189f7ea44e
+…
+java:S5738æ"HRemove this call to a deprecated method, it has been marked for removal.(»üÈJ$9e4bce10-5ba6-42d1-9b54-ecc9c3cc4918
+t
+java:S1135í"2Complete the task associated to this TODO comment.(™åá×ÿÿÿÿÿJ$264bf049-d0f5-41ca-8cc7-0d067ea815fb

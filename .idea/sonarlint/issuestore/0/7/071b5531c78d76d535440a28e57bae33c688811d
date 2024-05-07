@@ -1,0 +1,15 @@
+
+o
+java:S2293+"YReplace the type specification in this constructor call with the diamond operator ("<>").(ì÷ñÉ
+t
+java:S2293,"YReplace the type specification in this constructor call with the diamond operator ("<>").(£–šüÿÿÿÿ
+o	java:S116("URename this field "m_maxItems" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£œ‡†ûÿÿÿÿ
+j	java:S116)"URename this field "m_prefNode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Îã¤´
+g	java:S116+"RRename this field "m_items" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì÷ñÉ
+p	java:S116,"VRename this field "m_observers" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£–šüÿÿÿÿ
+[
+java:S1124&"EReorder the modifiers to comply with the Java Language Specification.(Øÿ€º
+D
+java:S1905K")Remove this unnecessary cast to "String".(ãÁæıÿÿÿÿÿ
+E
+java:S1905„")Remove this unnecessary cast to "String".(Ûè€™øÿÿÿÿ

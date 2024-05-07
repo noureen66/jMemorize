@@ -45,12 +45,17 @@ public class ExportToCSVAction extends AbstractExportAction
     /* (non-Javadoc)
      * @see jmemorize.gui.swing.actions.file.AbstractExportAction
      */
+
     protected void doExport(Lesson lesson, File file) throws IOException
     {
         FileOutputStream out = new FileOutputStream(file);
+
+        CsvBuilder.exportLesson(out, lesson, ',', Charset.forName("UTF-8"));
+
         /*Bug#5 fixed by nada */
 
         CsvBuilder.exportLesson(out, lesson, ',', StandardCharsets.UTF_8);
+
     }
 
     /* (non-Javadoc)
